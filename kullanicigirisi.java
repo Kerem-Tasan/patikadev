@@ -1,8 +1,6 @@
 import java.util.Scanner;
 public class kullanicigirisi {
-    /**
-     * @param args
-     */
+    
     public static void main(String[] args) {
         Scanner verial=new Scanner(System.in);
 
@@ -24,16 +22,9 @@ public class kullanicigirisi {
           
           if(yeni_Sifre.equals("stormblessed")){
             System.out.println("Şifre oluşturulamadı, lütfen başka şifre giriniz.");
-          
-            
-
-            
         }
         else{System.out.println("Şifre oluşturuldu");}
-       
-    
-    
-    
+
     }
         else{
             System.out.println("sistem kapatılıyor!");
