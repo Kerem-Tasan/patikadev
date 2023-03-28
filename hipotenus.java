@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class hipotenus {
     public static void main(String[] args) {
-        Scanner inp=new Scanner(System.in);
+        Scanner verial=new Scanner(System.in);
        
         //üçgenin hipotenüsünü bulan program
   
